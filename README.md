@@ -2,7 +2,7 @@
 # Hi, I'm Sohel Rana 👋
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+Clean+Websites;Frontend+Developer;React+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines= I'm Sohel Rana ;Building+Clean+Websites;Frontend+Developer;React+%7C+Next.js)](https://git.io/typing-svg)
 
 </div>
 **Frontend Developer | React • Next.js**
